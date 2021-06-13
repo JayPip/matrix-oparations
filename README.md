@@ -7,3 +7,6 @@ Operations:
 4. Multiplying matrix by scalar
 5. Checking if matrices are equal
 6. Determinant of matrix
+7. Transposition of matrix
+8. Sum on main diagonal
+9. 
