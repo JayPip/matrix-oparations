@@ -9,4 +9,8 @@ Operations:
 6. Determinant of matrix
 7. Transposition of matrix
 8. Sum on main diagonal
-9. 
+9 -> Upper triangular
+10 -> Lower traingular
+11 -> Identity matrix
+12 -> Sparse matrix
+13 -> Symmetric matrix 
